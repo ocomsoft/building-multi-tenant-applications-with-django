@@ -12,7 +12,7 @@ Multi tenant applications allow you to serve multiple customers with one install
 Most modern Software as a service applications are multi tenant. Whether it is Saleforce, Freshbooks, Freshbooks or wordpress, most modern cloud based applications are delivered with an multi-tenant architecture.
 
 
-The strructure of this book
+The structure of this book
 ++++++++++++++++++++++++++++
 
 In this book we will take a single tenant application and re-architect it to be a multi tenant application. We will use the Django polls app as our base.
